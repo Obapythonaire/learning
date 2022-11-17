@@ -6,7 +6,7 @@ year_of_birth = int(input("What year were you born? "))
 
 age = 2022 -year_of_birth
 
-when = 18 - age
+# when = 18 - age
 
 if age >= 18:
     print(f' Congratulations {name}, you are eligible to vote because you\'re {age} years old')

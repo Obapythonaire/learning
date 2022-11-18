@@ -1,4 +1,3 @@
-
 # program to get student name
 # and 5 marks in an array and total of the subjects
 # and display.

@@ -1,9 +1,9 @@
 # program to convert hours to seconds
 
-Hours = int(input("Enter the number in hours: "))
-Seconds = Hours*3600
+# Hours = int(input("Enter the number in hours: "))
+# Seconds = Hours*3600
 
-print(f"{Hours}hrs in seconds is {Seconds}secs")
+# print(f"{Hours}hrs in seconds is {Seconds}secs")
 
 
 # program to convert seconds to hours

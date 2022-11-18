@@ -13,7 +13,8 @@
 
 # ASSIGNMENT
 # program to get two numbers from user,
-# swap and display the new result
+# swap and display the new result without creating
+# the temp variable
 
 x = int(input("Enter a number: "))
 y = int(input("Enter a number: "))

@@ -15,4 +15,5 @@ rev_sen = sentence[::-1]
 ass_rev_sen = f"\"{rev_sen}.\""
 
 print(f"\"{rev_sen}.\"")
+# This was done to check their equality
 print(ass_rev_sen)

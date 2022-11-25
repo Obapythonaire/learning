@@ -26,11 +26,12 @@
 # program to convert binary to decimal
 
 binary = (input("Enter a number: "))
-conv = int(binary, 2)
+base = int(input("Enter the base: "))
+conv = int(binary, base)
 
 print(f"{binary} in decimal is {conv}")
 
-binary = (input("Enter a number: "))
-conv = int(binary, 10)
+# binary = (input("Enter a number: "))
+# conv = int(binary, 10)
 
-print(f"{binary} in decimal is {conv}")
+# print(f"{binary} in decimal is {conv}")
